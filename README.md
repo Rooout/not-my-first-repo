@@ -6,4 +6,4 @@ Kelas : PBP A
 
 Hobi : Tidur
 
-Jurusan : Ilmu Sistem Informasi Komputer
+Jurusan : Sastra Komputer
